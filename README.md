@@ -1,6 +1,6 @@
-[<p align="center">
+<p align="center">
   <a href="https://github.com/dn4lele">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1178&text=Daniel%20%7C%20Cloud%20and%20Platform%20Engineer" alt="Daniel | Cloud and Platform Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&fontSize=54&height=90&width=826&text=Daniel%20%7C%20Cloud%20Engineer" alt="Daniel | Cloud Engineer" />
   </a>
 </p>
 
@@ -91,4 +91,3 @@ Software Engineering student &amp; Cloud Engineer focusing on GCP platform infra
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/dn4lele">dn4lele</a></i></p>
-](https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1178&text=Daniel%20%7C%20Cloud%20%26%20Platform%20Engineer)
