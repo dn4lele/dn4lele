@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dn4lele">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&customBgColor=4285F4,0078D4&fontColor=ffffff&fontSize=38&height=100&text=Daniel%20%7C%20GCP%20%26%20Azure%20Cloud%20Engineer" alt="Daniel | GCP & Azure Cloud Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customBgColor=0078D4,00C9A7&amp;text=Daniel%20%7C%20Cloud%20%26%20Platform%20Engineer" alt="..." />
   </a>
 </p>
 
